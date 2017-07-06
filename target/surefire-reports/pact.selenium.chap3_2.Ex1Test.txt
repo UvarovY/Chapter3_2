@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: pact.selenium.chap3_2.Ex1Test
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 28.383 sec - in pact.selenium.chap3_2.Ex1Test
