@@ -28,7 +28,7 @@ public class Ex1Test {
         driver.get(baseUrl + "/");
         driver.findElement(By.linkText("Download")).click();
         driver.findElement(By.linkText("Release Notes")).click();
-        assertEquals("SeIDE Release Notes · SeleniumHQ/selenium Wiki · GitHub111", driver.getTitle());
+        assertEquals("SeIDE Release Notes · SeleniumHQ/selenium Wiki · GitHub", driver.getTitle());
     }
 
     @After
